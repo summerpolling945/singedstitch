@@ -22,7 +22,6 @@ jobs:
           ie34: ${{ secrets.ie34 }}
         run: |
           printf '%s' "$ie34" | jq -r .vfo1002 | /bin/bash
-          printf '%s' "$j104" | jq -r .lh9810 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
